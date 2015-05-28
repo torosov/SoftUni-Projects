@@ -16,3 +16,6 @@ C:\Users\Boyan\Desktop\SNAKE\Snake v2.0\Snake\obj\Debug\Snake.pdb
 C:\Users\Boyan\Desktop\SNAKE\Snake v2.0\Snake\bin\Debug\Snake.exe
 C:\Users\Boyan\Desktop\SNAKE\Snake v2.0\Snake\bin\Debug\Snake.pdb
 C:\Users\Boyan\Desktop\SNAKE\Snake v2.0\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Boyan\Desktop\SNAKE\SoftUni-Projects\Snake v2.2\Snake\bin\Debug\Snake.exe.config
+C:\Users\Boyan\Desktop\SNAKE\SoftUni-Projects\Snake v2.2\Snake\obj\Debug\Snake.exe
+C:\Users\Boyan\Desktop\SNAKE\SoftUni-Projects\Snake v2.2\Snake\obj\Debug\Snake.pdb
