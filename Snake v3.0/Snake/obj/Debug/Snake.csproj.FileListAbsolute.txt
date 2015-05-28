@@ -1,0 +1,21 @@
+E:\C# Projects 2\Game\Snake\Snake\bin\Debug\Snake.exe.config
+E:\C# Projects 2\Game\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\C# Projects 2\Game\Snake\Snake\bin\Debug\Snake.exe
+E:\C# Projects 2\Game\Snake\Snake\bin\Debug\Snake.pdb
+E:\C# Projects 2\Game\Snake\Snake\obj\Debug\Snake.exe
+E:\C# Projects 2\Game\Snake\Snake\obj\Debug\Snake.pdb
+E:\C# Projects 2\Game\Snake v2.0\Snake\bin\Debug\Snake.exe.config
+E:\C# Projects 2\Game\Snake v2.0\Snake\obj\Debug\Snake.exe
+E:\C# Projects 2\Game\Snake v2.0\Snake\obj\Debug\Snake.pdb
+E:\C# Projects 2\Game\Snake v2.0\Snake\bin\Debug\Snake.exe
+E:\C# Projects 2\Game\Snake v2.0\Snake\bin\Debug\Snake.pdb
+E:\C# Projects 2\Game\Snake v2.0\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Boyan\Desktop\SNAKE\Snake v2.0\Snake\bin\Debug\Snake.exe.config
+C:\Users\Boyan\Desktop\SNAKE\Snake v2.0\Snake\obj\Debug\Snake.exe
+C:\Users\Boyan\Desktop\SNAKE\Snake v2.0\Snake\obj\Debug\Snake.pdb
+C:\Users\Boyan\Desktop\SNAKE\Snake v2.0\Snake\bin\Debug\Snake.exe
+C:\Users\Boyan\Desktop\SNAKE\Snake v2.0\Snake\bin\Debug\Snake.pdb
+C:\Users\Boyan\Desktop\SNAKE\Snake v2.0\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\Boyan\Desktop\SNAKE\SoftUni-Projects\Snake v2.2\Snake\bin\Debug\Snake.exe.config
+C:\Users\Boyan\Desktop\SNAKE\SoftUni-Projects\Snake v2.2\Snake\obj\Debug\Snake.exe
+C:\Users\Boyan\Desktop\SNAKE\SoftUni-Projects\Snake v2.2\Snake\obj\Debug\Snake.pdb
