@@ -1,0 +1,14 @@
+1.Menu Controls
+a)Main menu;
+-Move trough the main menu's options by clicking either Up arrow or Down arrow
+-Choose an option by pressing Enter
+b)Options menu;
+-Choose starting speed or color by moving trough them by clicking Left arrow or Right arrow
+-Choose what option to change by using the Up Arrow and Down Arrow
+-Submit your choice by pressing Enter
+2.Movement
+a)Move the snake's directions by pressing one of the arrows;
+b)The snake's speed increases with its size(like the original game);
+c)If you "bite your tail" or hit the borders the game will end;
+d)When the game ends your score will be shown to you. The score depends on the ammount of food your snake ate
+  and the level(speed) at which you were playing.
